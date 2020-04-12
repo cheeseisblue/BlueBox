@@ -48,10 +48,10 @@ github 사용법은 한글로도 많으니 적절한것 하나를 찾아 숙지 
   
   
 # Teams
-  
+  ![image](https://user-images.githubusercontent.com/62240493/79067476-87c93480-7cfa-11ea-93c0-a5b0f115bae4.png)
   김민석
   팀장 (committer)
-  
+  ![KakaoTalk_20200401_155137803](https://user-images.githubusercontent.com/62240493/79067461-6bc59300-7cfa-11ea-96ff-37c87ba03154.jpg)
   이성재
   팀원
 
