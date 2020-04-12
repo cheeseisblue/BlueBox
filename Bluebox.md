@@ -1,22 +1,10 @@
-"마크다운 사용법"  으로 검색하면 간단한 포맷 명령어들을 볼 수 있습니다. 몇가지만 사용하면 되니 활용바랍니다.
-아래 제목 명칭은 적절히 수정바랍니다.
-github에 프로젝트 리포지토리를 하나만들고, 팀원들간 committer권한 역할자를 정하고,
-내용 수정에 대해서는 pull request 방식으로 합니다.
-github 사용법은 한글로도 많으니 적절한것 하나를 찾아 숙지 바랍니다. 
-소프트웨어 개발자 혹은 소프트웨어 개발자를 이해하는데 있어서 매우 중요한 경험이 될 것이고, 투자 가치가 있습니다 
 
-```
-  git add
-  git commit
-  git push
-  pull-request 
-```
-
-# 프로젝트명
+# Title
++ 
   온도감지 센서를 이용한 온도 조절기능이 있는 수조
-# 팀명
++ 팀명
   묻고 더블로 팀
-# 브랜드명
++ 브랜드명
   블루박스 
   
 # Pain Point
@@ -51,7 +39,7 @@ github 사용법은 한글로도 많으니 적절한것 하나를 찾아 숙지 
   ![KakaoTalk_20200401_155137803](https://user-images.githubusercontent.com/62240493/79067557-1ccc2d80-7cfb-11ea-9651-be3afc550018.jpg)
   김민석
   팀장 (committer)
-  ![이성재](https://user-images.githubusercontent.com/62240493/79067559-1dfd5a80-7cfb-11ea-8fb8-9c0ec3302be7.png)
+  ![이성재](https://user-images.githubusercontent.com/62240493/79067575-3f5e4680-7cfb-11ea-9609-6f14cc30599d.png)
   이성재
   팀원
 
