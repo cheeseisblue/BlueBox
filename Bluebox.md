@@ -45,6 +45,7 @@
   ![KakaoTalk_20200401_155137803](https://user-images.githubusercontent.com/62240493/79067557-1ccc2d80-7cfb-11ea-9651-be3afc550018.jpg)
   김민석
   팀장 (committer)
+  
   ![이성재](https://user-images.githubusercontent.com/62240493/79067575-3f5e4680-7cfb-11ea-9609-6f14cc30599d.png)
   이성재
   팀원
