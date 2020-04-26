@@ -18,7 +18,7 @@
 + 그래서 수질을 자동으로 측정해, 물갈이 할 시기를 알려주는 시스템을 개발하려고 합니다.
   
 # 예상 시스템 구성도
- ![image](https://user-images.githubusercontent.com/62240493/79068528-91569a80-7d02-11ea-9f09-d69a4826ce0c.png)
+ ![image](https://user-images.githubusercontent.com/62240493/80298855-21004c80-87cb-11ea-99de-aff7136f60f4.png)
   
 # 기대성과
   관리를 잘못 해주어 생물이 죽어버리는 사태를 방지할 수 있을 것으로 보이며, 물갈이를 자주 까먹게 되고 마는 사람에게 알림 기능을 제공해줌으로
