@@ -28,7 +28,7 @@
   
   
 # 팀
-  ![KakaoTalk_20200401_155137803](https://user-images.githubusercontent.com/62240493/79067557-1ccc2d80-7cfb-11ea-9651-be3afc550018.jpg)
+  ![김민석](https://user-images.githubusercontent.com/62240493/79067557-1ccc2d80-7cfb-11ea-9651-be3afc550018.jpg)
   김민석
   팀장 (committer)
   
@@ -49,6 +49,8 @@
 - 데이터베이스 데이터 수신 
 - 데이터 분석
 
+# 제품 진행 스케치
+ ![순서도](https://user-images.githubusercontent.com/62240493/80916918-9d2ffc80-8d96-11ea-847f-253e0049b54c.png)
   
 # 개발환경
   Slack을 이용한 담화, 
