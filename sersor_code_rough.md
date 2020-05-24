@@ -25,5 +25,5 @@ urlmain에는 "http://ec2-34-238-156-25.compute-1.amazonaws.com:8001/get?"이 �
 센서랑은 관계가 없지만 esp32에서 wifi를 연결하는 부분이다.
 
 
-센서가 pH 전극에서 발생하는 전위차(analog)를 float값으로 전환해서 보내주기 때문에, 간단한 형태의 ADC라고 볼 수 있다.
+센서가 pH 전극에서 발생하는 전위차(analog)를 float값으로 환해서 보내주는 ADC형태의 센서이다.
 
