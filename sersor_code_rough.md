@@ -4,6 +4,8 @@
 
 <img src="https://user-images.githubusercontent.com/62240493/82744901-69565e80-9db9-11ea-982e-10c207f37cbf.jpg" width="300" height="300">
 
+파란 선이 data, 검은 선이 gnd, 붉은 선이 vcc이다.
+
 코드는 크게 세 단계로 나누어지며 센서가 데이터를 읽어들이는 부분을 보면
 
 1. 
